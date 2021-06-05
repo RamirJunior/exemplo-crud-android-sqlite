@@ -1,0 +1,12 @@
+com/juniorteste/androidsqlite/CadastroAlunoActivity.java
+ com.juniorteste.androidsqlite.CadastroAlunoActivity
+com/juniorteste/androidsqlite/BuildConfig.java
+ com.juniorteste.androidsqlite.BuildConfig
+com/juniorteste/androidsqlite/AlunoDAO.java
+ com.juniorteste.androidsqlite.AlunoDAO
+com/juniorteste/androidsqlite/Conexao.java
+ com.juniorteste.androidsqlite.Conexao
+com/juniorteste/androidsqlite/Aluno.java
+ com.juniorteste.androidsqlite.Aluno
+com/juniorteste/androidsqlite/ListarAlunosActivity.java
+ com.juniorteste.androidsqlite.ListarAlunosActivity
